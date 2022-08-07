@@ -17,7 +17,7 @@ Give a long DNA string, find all occurrences of a chosen substring
 
 ## Documentation
 1. Full detailed report of the project: [CZ2001 Project 1 Report.pdf](https://github.com/nikita-bachhas/DNA-Pattern-Matching/blob/main/CZ2001%20Project%201%20Report.pdf)
-2. Summary and presentation of the project: [CZ2001 Project 1 Report.pdf](https://github.com/nikita-bachhas/DNA-Pattern-Matching/blob/main/Project%201%20Presentation.pptx)
+2. Summary and presentation of the project: [Project 1 Presentation.pptx](https://github.com/nikita-bachhas/DNA-Pattern-Matching/blob/main/Project%201%20Presentation.pptx)
 
 ## Developed by:
 1. Ang Shu Hui
