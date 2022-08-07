@@ -9,7 +9,9 @@ Give a long DNA string, find all occurrences of a chosen substring
 2. Calculated and compared time complexities for the three different algorithms on different sizes of main DNA string and substrings
 
 ##Conclusion
+
 ![Screenshot 2022-08-07 at 2 54 06 PM](https://user-images.githubusercontent.com/72136295/183279043-65dba138-4f1f-4008-9cf9-58f312700554.png)
+
 1. FA algorithm is more suitable to be used for general pattern searching and has a stable time complexity regardless of the size of the main DNA string and the substrings 
 2. Boyer Moore Horspool algorithm is more suitable for substrings with a few types of characters. Otherwise, this has a similar time complexity to the Naive/Brute Force algorithm
 
