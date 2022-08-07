@@ -8,7 +8,7 @@ Give a long DNA string, find all occurrences of a chosen substring
 1. Implemented three different algorithms: Finite Automata (FA) algorithm, Boyer Moore Horspool algorithm and the Naive/Brute Force algorithm
 2. Calculated and compared time complexities for the three different algorithms on different sizes of main DNA string and substrings
 
-##Conclusion
+## Conclusion
 
 ![Screenshot 2022-08-07 at 2 54 06 PM](https://user-images.githubusercontent.com/72136295/183279043-65dba138-4f1f-4008-9cf9-58f312700554.png)
 
